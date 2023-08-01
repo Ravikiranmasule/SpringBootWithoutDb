@@ -16,7 +16,7 @@ import com.jbk.serviceIMPL.ProductServiceIMPL;
 @RestController
 @RequestMapping("/product")
 public class ProductRestController {
-	sample
+
 	//ProductService service=new ProductServiceIMPL();
 	@Autowired
 	private ProductService service;
